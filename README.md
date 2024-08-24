@@ -34,4 +34,25 @@ o, en caso de contar con una cuenta, iniciar sesión:
 
 ![image](https://github.com/user-attachments/assets/ee6eb4be-49c4-427f-926e-6c43b9d9cece)
 
+- Sección "Sobre Nosotros", el cual introduce al equipo que atiende el consultorio, sus objetivos, así como los servicios que ofrecen al público:
+
+![image](https://github.com/user-attachments/assets/81073b4d-e1ed-4d61-980b-7d26e8f96123)
+
+- Sección "Mis turnos", es, en caso de no estar autenticado, otra forma de acceder al formulario de registro y login de la página. Como bien menciona, es un requisito el estar autenticado para poder sacar un turno.
+
+![image](https://github.com/user-attachments/assets/80470284-7e21-46f1-8435-ca883bba7485)
+
+Al estar autenticado, mis turnos se ejecuta con el dashboard de turnos, en donde se visualiza el formulario de turnos:
+
+![image](https://github.com/user-attachments/assets/481354f4-94e9-4ee8-95e6-9be03d59c4a9)
+
+así como los turnos que ha sacado:
+
+![image](https://github.com/user-attachments/assets/33797b6d-df5b-417a-92f3-fb3c90204fcf)
+
+
+
+
+
+
 
