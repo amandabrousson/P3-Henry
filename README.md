@@ -18,36 +18,20 @@ Página web con estructura fullstack. Single Page Application (SPA) compuesto po
 
 🚀 Desarrollo:
 
+
+
 ⭐ SANTE - KINESIOLOGÍA ⭐
 
 ![image](https://github.com/user-attachments/assets/249abd12-281e-46fc-97cf-3faada02c601)
 
 Se compone por:
 
-- Sección “Index”, la cual ejecuta el catálogo de películas disponibles.
+- Sección “Home”, la cual muestra la portada de la página web, así como tambien muestra un boton "ingresar" el cual redirige al formulario de registro:
 
-![image](https://github.com/user-attachments/assets/bbc95d90-f996-4943-9115-3ab7382e1f7c)
+![image](https://github.com/user-attachments/assets/b34a6e42-2633-45d8-b1bb-d6a87da86612)
 
-  Al hacer click en la portada de la película se podrán visualizar detalles de la misma, tales como director, género, duración, calificación, así como el video de su trailer. Con el botón cerrar puede esconder la   información y visualizar nuevamente la portada de la película.
+o, en caso de contar con una cuenta, iniciar sesión:
 
-  ![image](https://github.com/user-attachments/assets/7460c404-3c90-4198-8ced-3ecd4cf22176)
-
-- Sección “Sobre la web”, la cual provee información relativa a la aplicación
-
-![image](https://github.com/user-attachments/assets/d2001b56-cedb-4580-9c16-5b288e5466c7)
-  
-- Sección “Otras webs”, la cual detalla de qué medios saca la información de su página, así como tambien sugiere la consulta de otras webs vinculadas al mundo del cine:
-  
-   ![image](https://github.com/user-attachments/assets/f0f45d00-a8b5-4988-b844-1bd1063e3163)
-
-- Finalmente, cuenta con la sección "Agregar películas", la cual permite al usuario agregar nuevas películas. Las mismas se guardan en una base de datos para lograr su persistencia en la página incluso después de   cerrarla.
-
-  Para poder agregar la película será indispensable que rellene todos los campos del formulario.
-  
-  ![image](https://github.com/user-attachments/assets/4f432e3f-c291-4e7f-8a1c-1b56847d1dbb)
-  
-
-  
-
+![image](https://github.com/user-attachments/assets/ee6eb4be-49c4-427f-926e-6c43b9d9cece)
 
 
