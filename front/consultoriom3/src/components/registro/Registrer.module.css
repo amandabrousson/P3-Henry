@@ -1,0 +1,69 @@
+.formcontainer {
+    width: 500px;
+    margin: 2rem auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.formcontainer h2 {
+    margin-bottom: 20px;
+}
+
+.formcontainer label {
+    font-weight: bold;
+}
+
+.formcontainer input{
+    padding: 10px;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.username{
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.formcontainer button[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.field {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.field input{
+    width: 15rem;
+    padding: 10px;
+    margin-right: 1rem;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.name{
+    margin-bottom: 1rem;
+}
+
+.formcontainer button[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.errormessage {
+    color: red;
+    margin-top: 5px;
+}

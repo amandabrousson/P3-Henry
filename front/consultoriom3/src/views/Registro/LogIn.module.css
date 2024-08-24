@@ -1,0 +1,40 @@
+.tituloLogIn{
+    color: #68d8cc;
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.ContenedorLogIn{
+    height: 33rem;
+    width: 28rem;
+    background-color: #eee1e1;
+    padding: 1px;
+    margin-left: 34rem;
+    margin-top: 3rem;
+    border-radius: 1%;
+    list-style: none;
+}
+
+.botonLogIn{
+    background-color: #f9f9f9;
+    height: 3rem;
+    width: 26rem;
+    margin-left: 1rem;
+    font-weight: bold;
+    border-radius: 1%;
+}
+
+.boton{
+    text-decoration: underline;
+    color: black;
+}
+
+.hrprimero {
+    height: 0.2rem;
+    overflow: visible;
+    width: 85rem;
+    margin-left: 5rem;
+    background-color: #15cdca;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}

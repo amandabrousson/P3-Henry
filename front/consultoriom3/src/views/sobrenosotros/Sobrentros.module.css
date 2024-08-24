@@ -1,0 +1,97 @@
+.titulosobrenosotros {
+    color: #68d8cc;
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.subtitulo1{
+    color: #e9f0ef;
+    font-size: 2rem;
+    font-weight: normal;
+    margin-bottom: 18px;
+    margin-top: 1rem;
+}
+
+.subtitulo2{
+    color: #e9f0ef;
+    font-size: 2rem;
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+
+.hrsegundo{
+        height: 0.1rem;
+        overflow: visible;
+        width: 15rem;
+        margin-left: 12rem;
+        background-color: #15cdca;
+        margin-top: 5px;
+        margin-bottom: 2rem;    
+}
+
+.parrafo1{
+    color: #e9f0ef;
+    font-size: 1.1rem;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+.parrafo2{
+    color: #e9f0ef;
+    font-size: 1.1rem;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+.contenedor{
+    display: flex;
+    margin: 0px 4rem;
+}
+
+.columna {
+    flex: 1;
+    padding: 0 40px;
+}
+
+.hrVertical{
+    height: 0.1rem;
+    overflow: visible;
+    width: 15rem;
+    margin-left: 40rem;
+    background-color: #15cdca;
+    margin-top: 5px;
+    margin-bottom: 2rem;    
+}
+
+.listaVertical {
+    list-style-type: none; /* Quita los puntos de la lista */
+    padding: 0; /* Quita el espacio interior de la lista */
+    margin: 0; /* Quita el espacio exterior de la lista */
+    display: flex; /* Usa flexbox */
+    flex-direction: column; /* Apila los elementos uno debajo del otro */
+}
+
+.listaVertical li {
+    flex: 1; /* Hace que cada elemento ocupe el mismo espacio vertical */
+    text-align: center; /* Centra el texto horizontalmente */
+    transition: background-color 0.3s; /* Transición suave del color de fondo */
+}
+
+.listaVertical li:hover {
+    background-color: #15cdca; /* Cambia el color de fondo al pasar el cursor */
+    transform: scale(0.98);
+}
+
+.icono-svg {
+    vertical-align: middle; /* Alinea verticalmente el icono */
+}
+
+.hrprimero {
+    height: 0.2rem;
+    overflow: visible;
+    width: 85rem;
+    margin-left: 5rem;
+    background-color: #15cdca;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}

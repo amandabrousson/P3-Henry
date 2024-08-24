@@ -1,0 +1,25 @@
+.formcontainer {
+    width: 45rem;
+    height: 17rem;
+    margin: 2rem auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.formcontainer h2 {
+    text-decoration: underline;
+}
+
+.recuadro{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.labelRecuadro{
+    padding: 1rem;
+}
+
+

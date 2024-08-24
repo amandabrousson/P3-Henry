@@ -1,0 +1,40 @@
+.contenido_boton{   
+    height: 100%;
+    width: 100%;     
+    align-items: center;
+    justify-content: center; 
+    display: flex;
+}
+
+.boton{
+    position: absolute;
+    background-color: #15cdca7b;
+    list-style: none;
+    border-color: #15cdca7b;
+    color: aliceblue;
+    font-size: 1.5rem;
+    font-weight: 700;
+    border-radius: .5rem;
+    padding: 1.5rem 1.5rem;
+    width: 10rem;
+    text-align: center;
+    top: 27rem;
+    text-decoration: none;
+}
+
+.boton:hover{
+    background-color: #15cdca;
+    color: black;
+    border-radius: 10px;
+    text-decoration: underline;
+    }
+
+.hrprimero {
+    height: 0.2rem;
+    overflow: visible;
+    width: 85rem;
+    margin-left: 5rem;
+    background-color: #15cdca;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}

@@ -1,0 +1,44 @@
+.perfilcontainer {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 450px;
+    margin: 0 auto; /* Centrar horizontalmente */
+}
+
+.perfilcontainer h2{
+    color: antiquewhite;
+    text-decoration: underline;
+}
+
+.perfilinfo {
+    display: flex;
+    color: antiquewhite;
+    text-align: left;
+}
+
+.perfildetails {
+    flex: 1;
+}
+
+.perfilphoto {
+    width: 150px; 
+    margin-left: 20px;
+}
+
+.hrprimero {
+    height: 0.2rem;
+    overflow: visible;
+    width: 85rem;
+    margin-left: 5rem;
+    background-color: #15cdca;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+.perfilphoto img {
+    width: 100%;
+    height: auto; 
+    object-fit: cover;
+    border-radius: 8px; 
+}

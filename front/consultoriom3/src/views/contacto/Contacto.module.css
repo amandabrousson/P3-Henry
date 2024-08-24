@@ -1,0 +1,85 @@
+.tituloContacto {
+    color: #68d8cc;
+    font-size: 3rem;
+    margin-bottom: 50px;
+}
+
+.hrprimero {
+    height: 0.2rem;
+    overflow: visible;
+    width: 85rem;
+    margin-left: 5rem;
+    background-color: #15cdca;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+.columnascontacto {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 2rem;
+}
+
+.iframe {
+    display: grid;
+    margin-left: 2rem;
+    width: 45rem;
+    height: 25rem;
+}
+
+.filascontacto {
+    background-color: #4f80e2;
+    margin-right: 2rem;
+}
+
+.Contacto{
+    margin: 0 auto;
+    width: 725px;
+    height: 25rem;
+    box-sizing: border-box;
+    font-size: 1rem;
+    display: grid;
+    background-color: #314e8984;
+    padding: 1rem 5rem;
+    justify-content: center;
+}
+
+.parrafocontacto {
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 0.5rem;
+    color: #15cdca;
+}
+
+.formulario {
+    margin: 0 auto;
+    width: 646px;
+    height: 13rem;
+    box-sizing: border-box;
+    font-size: 1rem;
+    display: grid;
+    background-color: #18243b84;
+    border-radius: 2%;
+    padding: 1rem 5rem;
+}
+
+.itemsformulario{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    margin-top: 5px;
+    color: aliceblue;
+}
+
+.input{
+    position: relative;
+    margin-top: 1rem;
+}
+
+.formularioconsulta{
+    color: aliceblue;
+}
+
+.columnamapa{
+    width: 50%;
+}
