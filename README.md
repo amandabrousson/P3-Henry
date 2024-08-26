@@ -20,7 +20,42 @@ Página web con estructura fullstack. Single Page Application (SPA) compuesto po
 - Diseñar una página web orientada a un sistema de registro de turnos con sus fechas y horarios y con la posibilidad de cancelarlos.
 - Manejo de repositorios con Git y Github.
 - Manejo de protocolos de comunicación.
-- Manejo de bases de datos. 
+- Manejo de bases de datos.
+
+## Instalación
+
+Sigue estos pasos para clonar y ejecutar el proyecto:
+
+1. **Clonar el repositorio**:
+
+   ```bash
+   git clone https://github.com/amandabrousson/P3-Henry.git
+
+2. **Ejecutarlo en Visual Studio Code e instalar sus dependencias en el backend como frontend**:
+
+    ```bash
+    Npm install
+
+ 3. **Para ejecutar el proyecto y ver la página desde el frontend **:
+
+    ```bash
+    Npm run dev
+
+ 4. **Para ejecutar el proyecto desde el backend **:
+
+    ```bash
+    Npm start
+
+5. Crear archivo .env. Dentro de este archivo, se encontrarán las variables de entorno necesarias para ejecutar la conexión con la base de datos y el puerto de escucha del servidor Express.
+
+Variables a definir
+- Puerto del backend, Usuario y clave de PostgreSQL y nombre de la base de datos.
+
+  ```bash
+  PORT=3000
+  DB_USERNAME=example_username
+  DB_PASSWORD=example_password
+  DB_NAME=example_DB_name
 
 🚀 Desarrollo:
 
