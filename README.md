@@ -1,4 +1,10 @@
-🌟 Tercer proyecto del bootcamp de programación fullstack SoyHenry.
+![image](https://github.com/user-attachments/assets/35c5cf4b-dd6b-4a08-ae92-b3e07b97c3e6)
+
+Tercer proyecto del bootcamp de programación fullstack SoyHenry.
+
+⭐ SANTE - KINESIOLOGÍA ⭐
+
+![image](https://github.com/user-attachments/assets/249abd12-281e-46fc-97cf-3faada02c601)
 
 Página web con estructura fullstack. Single Page Application (SPA) compuesto por un servidor HTTP para gestionar turnos de una base de datos. 
 
@@ -17,12 +23,6 @@ Página web con estructura fullstack. Single Page Application (SPA) compuesto po
 - Manejo de bases de datos. 
 
 🚀 Desarrollo:
-
-
-
-⭐ SANTE - KINESIOLOGÍA ⭐
-
-![image](https://github.com/user-attachments/assets/249abd12-281e-46fc-97cf-3faada02c601)
 
 Se compone por:
 
