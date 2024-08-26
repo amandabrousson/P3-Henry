@@ -16,7 +16,7 @@ Página web con estructura fullstack. Single Page Application (SPA) compuesto po
 - TypeOrm.
 - SQL.
 
-##🎯 Objetivos:
+## 🎯 Objetivos:
 - Diseñar una página web orientada a un sistema de registro de turnos con sus fechas y horarios y con la posibilidad de cancelarlos.
 - Manejo de repositorios con Git y Github.
 - Manejo de protocolos de comunicación.
@@ -57,7 +57,7 @@ Variables a definir
   DB_PASSWORD=example_password
   DB_NAME=example_DB_name
 
-##🚀 Desarrollo:
+## 🚀 Desarrollo:
 
 Se compone por:
 
