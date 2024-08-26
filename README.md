@@ -8,7 +8,7 @@ Tercer proyecto del bootcamp de programación fullstack SoyHenry.
 
 Página web con estructura fullstack. Single Page Application (SPA) compuesto por un servidor HTTP para gestionar turnos de una base de datos. 
 
-##🛠️ Tecnologías utilizadas:
+## 🛠️ Tecnologías utilizadas:
 - React
 - Tailwind
 - Typescript
